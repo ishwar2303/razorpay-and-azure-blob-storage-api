@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{660D4304-3A4F-46F0-A2EE-A6D8FE949E4E}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RazorPaymentGateway PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RazorPaymentGateway/Controllers/PaymentController.cs">
+    <Files>
+      <File FileName="RazorPaymentGateway/Startup.cs" Line="37" Column="14" />
+      <File FileName="RazorPaymentGateway/ViewModels/PaymentDetails.cs" Line="32" Column="1" />
+      <File FileName="RazorPaymentGateway/Program.cs" Line="25" Column="6" />
+      <File FileName="RazorPaymentGateway/Controllers/PaymentController.cs" Line="34" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RazorPaymentGateway" expanded="True">
+            <Node name="RazorPaymentGateway" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

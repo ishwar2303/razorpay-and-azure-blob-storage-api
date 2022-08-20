@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = RazorPaymentGateway
+build_property.ProjectDir = /Volumes/Study/CS/DotNet/API/RazorPaymentGateway/RazorPaymentGateway/
