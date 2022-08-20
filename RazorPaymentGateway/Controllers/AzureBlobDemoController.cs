@@ -15,7 +15,7 @@ namespace RazorPaymentGateway.Controllers
     public class AzureBlobDemoController : ControllerBase
     {
 
-        private string connectionString = "DefaultEndpointsProtocol=https;AccountName=demostorage23031999;AccountKey=8/i9eYbNBywB3V6qLorm1GY6fwlGl73OrZglasQR6NeEAOb4Jqo569E4by5tFAdd0KjX91NIa8fK+ASt2b2K/g==;EndpointSuffix=core.windows.net";
+        private string connectionString = "";
 
         private string containerName = "angularblob";
 
